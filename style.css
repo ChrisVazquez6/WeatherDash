@@ -1,0 +1,18 @@
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow ;
+}
+.red{
+  background-color: red;
+}
+
+#title{
+ font-size: 50px;
+ align-content: center;
+ text-align: center;
+ color: rgb(37, 140, 213);
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+}
